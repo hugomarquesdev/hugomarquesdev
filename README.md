@@ -5,7 +5,7 @@
 - :computer: &nbsp; Currently building websites in React and an ecommerce store in Wordpress
 - 💼 &nbsp; Working as a Front-End Developer
 - 🎓 &nbsp; Graduation in New Communication Technologies
-- :musical_note: &nbsp; Bass Player
+- :guitar: &nbsp; Bass Player
 
 
 <h2>:rocket:&nbsp; Skills</h2>
