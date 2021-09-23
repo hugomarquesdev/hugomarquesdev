@@ -2,7 +2,7 @@
 
 <h2>:man:&nbsp; About Me</h2>
 
-- :computer: &nbsp; Currently building websites in React and an ecommerce store in Wordpress
+- :computer: &nbsp; Currently building websites in React/Gatsby and an ecommerce store in Wordpress
 - 💼 &nbsp; Working as a Front-End Developer
 - 🎓 &nbsp; Graduation in New Communication Technologies
 - :guitar: &nbsp; Bass Player
