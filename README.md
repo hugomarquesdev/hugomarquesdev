@@ -1,6 +1,6 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
-<h2>:man:&nbsp; About Me</h2>
+<h2>:adult:&nbsp; About Me</h2>
 
 - :computer: &nbsp; Currently building websites in React/Gatsby and an ecommerce store in Wordpress
 - 💼 &nbsp; Working as a Front-End Developer
