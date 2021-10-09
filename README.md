@@ -17,13 +17,12 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
 ![JSON](https://img.shields.io/badge/-JSON-333333?style=flat&logo=json)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown) <br>
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) <br>
 ![Gatsby](https://img.shields.io/badge/-Gatsby-333333?style=flat&logo=gatsby)
+![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
 ![StyledComponents](https://img.shields.io/badge/-StyledComponents-333333?style=flat&logo=styledcomponents)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
  
   
 <h2>:computer:&nbsp; Projects</h2>
