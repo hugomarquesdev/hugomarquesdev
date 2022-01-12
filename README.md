@@ -27,6 +27,7 @@
   
 <h2>:computer:&nbsp; Projects</h2>
 
+<a href="https://lardarte.pt" target='_blank'> https://lardarte.pt </a> <br>
 <a href="https://ramalhos.com" target='_blank'> https://ramalhos.com </a> <br>
 <a href="https://saven.pt" target='_blank'> https://saven.pt </a> <br>
 <a href="https://faustotadeu.pt" target='_blank'> https://faustotadeu.pt </a> <br>
