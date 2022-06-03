@@ -2,10 +2,10 @@
 
 <h2>:adult:&nbsp; About Me</h2>
 
-- :computer: &nbsp; Currently building websites in React/Next and an ecommerce store in Wordpress
-- 💼 &nbsp; Working as a Front-End Developer
-- 🎓 &nbsp; Graduation in New Communication Technologies
-- :guitar: &nbsp; Bass Player
+- :computer: &nbsp; Currently building a PWA with React/NextJS, websites with React/Gatsby and an ecommerce store with Wordpress.
+- 💼 &nbsp; Working as a Front-End Developer.
+- 🎓 &nbsp; Graduation in New Communication Technologies.
+- :guitar: &nbsp; Bass Player.
 
 
 <h2>:rocket:&nbsp; Skills</h2>
