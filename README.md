@@ -2,7 +2,7 @@
 
 <h2>:adult:&nbsp; About Me</h2>
 
-- :computer: &nbsp; Currently building websites in React/Gatsby and an ecommerce store in Wordpress
+- :computer: &nbsp; Currently building websites in React/Next and an ecommerce store in Wordpress
 - 💼 &nbsp; Working as a Front-End Developer
 - 🎓 &nbsp; Graduation in New Communication Technologies
 - :guitar: &nbsp; Bass Player
@@ -19,6 +19,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) <br>
 ![Gatsby](https://img.shields.io/badge/-Gatsby-333333?style=flat&logo=gatsby)
+![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nextjs)
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
 ![StyledComponents](https://img.shields.io/badge/-StyledComponents-333333?style=flat&logo=styledcomponents)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
