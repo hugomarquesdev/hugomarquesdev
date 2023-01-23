@@ -24,16 +24,6 @@
 ![StyledComponents](https://img.shields.io/badge/-StyledComponents-333333?style=flat&logo=styledcomponents)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress)
- 
-  
-<h2>:computer:&nbsp; Projects</h2>
-
-<a href="https://pontourbano.pt" target='_blank'> https://pontourbano.pt </a> <br>
-<a href="https://lardarte.pt" target='_blank'> https://lardarte.pt </a> <br>
-<a href="https://ramalhos.com" target='_blank'> https://ramalhos.com </a> <br>
-<a href="https://saven.pt" target='_blank'> https://saven.pt </a> <br>
-<a href="https://faustotadeu.pt" target='_blank'> https://faustotadeu.pt </a> <br>
-<a href="https://induporta.pt" target='_blank'> https://induporta.pt </a>
 
   
 <h2> :thumbsup: &nbsp;Connect with me </h2>
