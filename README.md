@@ -24,10 +24,4 @@
 ![StyledComponents](https://img.shields.io/badge/-StyledComponents-333333?style=flat&logo=styledcomponents)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress)
-
   
-<h2> :thumbsup: &nbsp;Connect with me </h2>
-
-<a href="https://www.linkedin.com/in/hugomarquesdev/" target='_blank'>
-  <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
-</a>
