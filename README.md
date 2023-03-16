@@ -2,7 +2,7 @@
 
 <h2>:adult:&nbsp; About Me</h2>
 
-- :computer: &nbsp; Currently working with React/NextJS and an ecommerce store with Wordpress.
+- :computer: &nbsp; Currently working with React/NextJS.
 - 💼 &nbsp; Working as a Front-End Developer.
 - 🎓 &nbsp; Graduation in New Communication Technologies.
 - :guitar: &nbsp; Bass Player.
