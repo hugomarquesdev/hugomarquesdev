@@ -1,6 +1,4 @@
-<h1> Hello Fellow < Developers/ > </h1>
-
-<h2>:adult:&nbsp; About Me</h2>
+<h2>About Me</h2>
 
 - :computer: &nbsp; Currently working with React/NextJS.
 - 💼 &nbsp; Working as a Front-End Developer.
@@ -8,7 +6,7 @@
 - :guitar: &nbsp; Bass Player.
 
 
-<h2>:rocket:&nbsp; Skills</h2>
+<h2>Skills</h2>
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
