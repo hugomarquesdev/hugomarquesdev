@@ -1,6 +1,6 @@
 <h2>About Me</h2>
 
-- :computer: &nbsp; Currently working with React/NextJS.
+- :computer: &nbsp; Currently working with React.
 - 💼 &nbsp; Working as a Front-End Developer.
 - 🎓 &nbsp; Graduation in New Communication Technologies.
 - :guitar: &nbsp; Bass Player.
